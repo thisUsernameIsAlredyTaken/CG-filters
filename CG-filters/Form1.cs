@@ -31,6 +31,8 @@ namespace CG_filters
       if (dialog.ShowDialog() == DialogResult.OK)
       {
         image = new Bitmap(dialog.FileName);
+        pictureBox1.Image = image;
+        pictureBox1.Refresh();
       }
     }
   }
