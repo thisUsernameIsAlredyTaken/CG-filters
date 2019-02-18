@@ -1,0 +1,7 @@
+c:\users\zhivaev.a\Desktop\CG-filters\CG-filters\bin\Debug\CG-filters.exe
+c:\users\zhivaev.a\Desktop\CG-filters\CG-filters\bin\Debug\CG-filters.pdb
+c:\users\zhivaev.a\Desktop\CG-filters\CG-filters\obj\x86\Debug\CG_filters.Form1.resources
+c:\users\zhivaev.a\Desktop\CG-filters\CG-filters\obj\x86\Debug\CG_filters.Properties.Resources.resources
+c:\users\zhivaev.a\Desktop\CG-filters\CG-filters\obj\x86\Debug\CG-filters.csproj.GenerateResource.Cache
+c:\users\zhivaev.a\Desktop\CG-filters\CG-filters\obj\x86\Debug\CG-filters.exe
+c:\users\zhivaev.a\Desktop\CG-filters\CG-filters\obj\x86\Debug\CG-filters.pdb
